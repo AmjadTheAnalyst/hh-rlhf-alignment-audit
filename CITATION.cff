@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "HH-RLHF Alignment Audit"
+type: software
+authors:
+  - given-names: Muhammad
+    family-names: Amjad
+version: 0.1.0
+keywords:
+  - RLHF
+  - preference data
+  - AI ethics
+  - reproducibility

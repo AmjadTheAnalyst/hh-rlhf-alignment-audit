@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+/kaggle/
+/data/
+/annotations/
+/hh-rlhf-raw/
+/hh-rlhf-annotations/
+/hh_rlhf_private/
